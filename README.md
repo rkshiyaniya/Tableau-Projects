@@ -2,6 +2,8 @@
 
 This repository contains Data Analysis and Visualization Projects made in Tableau.
 
+Tableau Profile : [Click-here](https://public.tableau.com/profile/rutvik.shiyaniya#!/)
+
 ## [1. IPL Story 2008-2020](https://public.tableau.com/app/profile/rutvik.shiyaniya/viz/IPLStory2008-2020_16237774116130/Story1)
 
 - This Projects contains Visualization about ...
@@ -43,3 +45,5 @@ This repository contains Data Analysis and Visualization Projects made in Tablea
 - [ ] Grilled Chicken Vs Crispy Chicken
 
 - Hosted @ [Click-me](https://public.tableau.com/app/profile/rutvik.shiyaniya/viz/McDNutritionsFactsMenuAnalysis/McDMenu)
+
+If you like above projects, please follow me @ [Click-me](https://public.tableau.com/profile/rutvik.shiyaniya#!/)
