@@ -24,3 +24,22 @@ This repository contains Data Analysis and Visualization Projects made in Tablea
 
 - Hosted @ [Click-me](https://public.tableau.com/app/profile/rutvik.shiyaniya/viz/IPLStory2008-2020_16237774116130/Story1)
 
+---
+## [2. McDonald's Nutrition Facts Menu Analysis](https://public.tableau.com/app/profile/rutvik.shiyaniya/viz/McDNutritionsFactsMenuAnalysis/McDMenu)
+
+- This Projects contains Visualization about ...
+- [x] Avg. value of different types of Fat in each category
+- [x] Avg. vitamins A & C (% daily value) in rach category
+- [x] Avg. Calories in each category
+- [x] Avg. Dietary fiber and protein in each category
+- Below analysis also shows (% daily value of Calcium, Cholesterol, Iron, Sodium)
+- [x] Top 20 items which is High in calories
+- [x] Top 20 CHEESE items which is High in calories
+- [x] Top 20 EGG items which is High in calories
+- [x] Top 20 CHICKEN items which is High in calories
+- [x] Top 20 items which is high in Sugar
+- [x] Top 20 items which is high in Carbs(% Daily values)
+- [ ] Whole Egg Vs Egg White
+- [ ] Grilled Chicken Vs Crispy Chicken
+
+- Hosted @ [Click-me](https://public.tableau.com/app/profile/rutvik.shiyaniya/viz/McDNutritionsFactsMenuAnalysis/McDMenu)
